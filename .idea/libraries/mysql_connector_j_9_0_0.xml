@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="mysql-connector-j-9.0.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../mysql-connector-j-9.0.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jar_files (1)/itextpdf-5.5.9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
